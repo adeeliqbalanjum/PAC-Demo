@@ -1,0 +1,409 @@
+[
+ {
+  "slug": "pk09",
+  "name": "PK09",
+  "cat": "Pistol",
+  "platform": "TT-33",
+  "caliber": "9x19mm",
+  "action": "Semi-auto, single action",
+  "barrel": "116 mm",
+  "mag": "8 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Fixed grip",
+  "finish": "Blued or chrome",
+  "use": [
+   "Civilian",
+   "Private security"
+  ],
+  "tag": "Concealed carry",
+  "blurb": "9mm semi-automatic pistol on the classic TT-33 design, with a sporting trigger and manual thumb safety. All-steel, slim and compact.",
+  "features": [
+   "All-steel construction",
+   "Sporting trigger",
+   "Manual thumb safety",
+   "Fixed iron sights",
+   "Blued or chrome finish"
+  ]
+ },
+ {
+  "slug": "pk07",
+  "name": "PK07",
+  "cat": "Pistol",
+  "platform": "TT-33",
+  "caliber": "7.62x25mm",
+  "action": "Semi-auto, single action",
+  "barrel": "116 mm",
+  "mag": "7 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Fixed grip",
+  "finish": "Blued",
+  "use": [
+   "Civilian",
+   "Law enforcement",
+   "Private security"
+  ],
+  "tag": "Strong penetration",
+  "blurb": "Robust, affordable 7.62x25mm pistol with distinctive styling and durable steel construction for civilian, law-enforcement and security use.",
+  "features": [
+   "4-groove right-hand rifling",
+   "Textured polymer grip with star emblem",
+   "Skeletonised trigger",
+   "Steel frame",
+   "7-round magazine"
+  ]
+ },
+ {
+  "slug": "foldstrike",
+  "name": "FoldStrike",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds",
+  "weight": "3.4 kg",
+  "length": "943 / 700 mm",
+  "stock": "Under-folding",
+  "finish": "Blued",
+  "use": [
+   "Forces",
+   "Civilian"
+  ],
+  "tag": "NATO compatible",
+  "blurb": "AK-platform rifle chambered in 5.56x45mm NATO with an under-folding stock, chrome-lined barrel and classic pistol grip and handguard.",
+  "features": [
+   "5.56x45mm NATO compatibility",
+   "Chrome-lined barrel",
+   "Under-folding stock",
+   "Classic AK grip and handguard",
+   "600 RPM, 500 m effective range"
+  ]
+ },
+ {
+  "slug": "falconstrike",
+  "name": "FalconStrike",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds",
+  "weight": "3.4 kg",
+  "length": "943 / 700 mm",
+  "stock": "Folding triangle",
+  "finish": "Hard chrome barrel",
+  "use": [
+   "Forces",
+   "Civilian"
+  ],
+  "tag": "Lightweight",
+  "blurb": "Modern reliability with classic AK durability. Lightweight polymer furniture, folding triangle stock and NATO compatibility.",
+  "features": [
+   "Lightweight polymer stock",
+   "Ergonomic grip",
+   "Hard-chromed barrel",
+   "Folding triangle stock",
+   "5.56x45mm NATO"
+  ]
+ },
+ {
+  "slug": "kalash-redline",
+  "name": "Kalash Redline",
+  "cat": "Rifle",
+  "platform": "AK-74",
+  "caliber": "5.45x39mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds (bakelite)",
+  "weight": "",
+  "length": "",
+  "stock": "Fixed laminated wood",
+  "finish": "Blued, wood furniture",
+  "use": [
+   "Forces",
+   "Collectors"
+  ],
+  "tag": "Low recoil",
+  "blurb": "Refined AK-74 variant in 5.45x39mm with the signature red bakelite magazine, muzzle brake and laminated wood furniture.",
+  "features": [
+   "Reduced recoil with muzzle brake",
+   "Stamped receiver, polymer magazine",
+   "High-velocity 5.45x39mm",
+   "Fixed laminated wood stock",
+   "AK-74 compensator"
+  ]
+ },
+ {
+  "slug": "neurostrike",
+  "name": "NeuroStrike",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds",
+  "weight": "3.4 kg",
+  "length": "943 / 700 mm",
+  "stock": "Laminated wood",
+  "finish": "Hard chrome barrel",
+  "use": [
+   "Forces"
+  ],
+  "tag": "NATO compatible",
+  "blurb": "AK platform in 5.56x45mm NATO, combining legendary reliability with NATO logistics compatibility.",
+  "features": [
+   "5.56x45mm NATO",
+   "Chrome-lined barrel",
+   "Ergonomic grip",
+   "600 RPM, 500 m effective range"
+  ]
+ },
+ {
+  "slug": "pk-308-l",
+  "name": "PK 308 L",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "7.62x51mm",
+  "action": "Semi-auto, gas-operated",
+  "barrel": "415 / 508 mm",
+  "mag": "20 rounds",
+  "weight": "4.1 to 4.3 kg",
+  "length": "1,040 mm",
+  "stock": "Fixed polymer or folding",
+  "finish": "Stamped steel receiver",
+  "use": [
+   "Hunting",
+   "Marksmen",
+   "Forces"
+  ],
+  "tag": "Long range",
+  "blurb": "Semi-auto AK in 7.62x51mm NATO / .308 Winchester: Kalashnikov reliability with long-range power in a sporterised package.",
+  "features": [
+   "7.62x51mm NATO / .308 Win",
+   "Side rail for optics",
+   "AK-threaded muzzle",
+   "Reinforced stamped receiver",
+   "20-round magazine"
+  ]
+ },
+ {
+  "slug": "pk-103",
+  "name": "PK 103",
+  "cat": "Rifle",
+  "platform": "AK-74M",
+  "caliber": "7.62x39mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds (AKM)",
+  "weight": "3.4 kg",
+  "length": "",
+  "stock": "Side-folding",
+  "finish": "Polymer furniture",
+  "use": [
+   "Forces",
+   "Vehicle crews"
+  ],
+  "tag": "All-weather",
+  "blurb": "Modernised 7.62x39mm rifle evolved from the AK-74M: improved materials and ergonomics, Picatinny rail, side-folding stock.",
+  "features": [
+   "AKM magazine compatible",
+   "Picatinny rail for optics",
+   "Side-folding stock",
+   "All-weather operation",
+   "350 m point-blank, 500 m range"
+  ]
+ },
+ {
+  "slug": "vx-warborn",
+  "name": "VX Warborn",
+  "cat": "Carbine",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, long-stroke piston",
+  "barrel": "317 mm",
+  "mag": "30 rounds",
+  "weight": "3.75 kg",
+  "length": "847 / 648 mm",
+  "stock": "Side-folding metal strut",
+  "finish": "Chrome-lined barrel",
+  "use": [
+   "Forces"
+  ],
+  "tag": "Compact",
+  "blurb": "Kalashnikov reliability with modern tactical enhancements: metal forearm with angled vertical grip and a large double-slot muzzle brake.",
+  "features": [
+   "Side-folding metal strut stock",
+   "Metal forearm, forward vertical grip",
+   "Double-slot muzzle brake",
+   "6-groove chrome-lined barrel",
+   "5.56x45mm NATO"
+  ]
+ },
+ {
+  "slug": "raad",
+  "name": "Ra'ad",
+  "cat": "Carbine",
+  "platform": "AK-102",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "314 mm",
+  "mag": "30 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Side-folding metal triangle",
+  "finish": "Blued",
+  "use": [
+   "Forces",
+   "CQB units"
+  ],
+  "tag": "CQB",
+  "blurb": "Compact AK-102 carbine in 5.56x45mm NATO: manoeuvrability of a short gun with full-rifle firepower.",
+  "features": [
+   "314 mm barrel",
+   "Side-folding triangle butt",
+   "Adjustable iron sights, optics mount",
+   "500 m effective range",
+   "30-round magazine"
+  ]
+ },
+ {
+  "slug": "black-unit-308",
+  "name": "Black Unit 308",
+  "cat": "Carbine",
+  "platform": "AK",
+  "caliber": "7.62x51mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "Short tactical, chrome-lined",
+  "mag": "20 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Under-folding",
+  "finish": "Thumbhole wood furniture",
+  "use": [
+   "Forces",
+   "CQB units"
+  ],
+  "tag": "Stopping power",
+  "blurb": "Short-barrel 7.62x51mm battle carbine built for close quarters: stopping power, compactness and control.",
+  "features": [
+   "7.62x51mm NATO",
+   "Shortened chrome-lined barrel",
+   "Custom thumbhole wood grip",
+   "Under-folding stock",
+   "600 to 800 yd effective range"
+  ]
+ },
+ {
+  "slug": "zarraredge",
+  "name": "ZarrarEdge",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Semi-auto, long-stroke piston",
+  "barrel": "16.25 in, chrome-lined",
+  "mag": "30 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Side-folder",
+  "finish": "Blued steel, bakelite furniture",
+  "use": [
+   "Sport",
+   "Collectors",
+   "Forces"
+  ],
+  "tag": "Milled receiver",
+  "blurb": "Cold War-era pattern semi-automatic rifle with a precision-milled steel receiver and bakelite furniture, chambered in 5.56x45mm NATO.",
+  "features": [
+   "Precision-milled steel receiver",
+   "Bakelite furniture",
+   "Side-folding stock",
+   "Chrome-lined barrel",
+   "Blued steel finish"
+  ]
+ },
+ {
+  "slug": "yarmouk-556",
+  "name": "Yarmouk 556",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "415 mm",
+  "mag": "30 rounds",
+  "weight": "3.4 kg",
+  "length": "943 / 700 mm",
+  "stock": "Folding",
+  "finish": "Wooden handguard",
+  "use": [
+   "Training",
+   "Defence",
+   "Collectors"
+  ],
+  "tag": "Hybrid classic",
+  "blurb": "Folding stock and wooden handguard: a hybrid of modern utility and classic aesthetics for training, defence or collection.",
+  "features": [
+   "Folding stock",
+   "Wooden handguard",
+   "Side rail mount for optics",
+   "Hammer-forged bolt and carrier",
+   "Leaf sights to 1,000 yd"
+  ]
+ },
+ {
+  "slug": "battlehawk",
+  "name": "BattleHawk",
+  "cat": "Rifle",
+  "platform": "AK",
+  "caliber": "5.56x45mm",
+  "action": "Gas-operated, rotating bolt",
+  "barrel": "6-groove, chrome-lined",
+  "mag": "30 rounds",
+  "weight": "3.6 kg",
+  "length": "838 mm",
+  "stock": "Side-folding tubular",
+  "finish": "A2 flash hider",
+  "use": [
+   "Forces",
+   "Collectors"
+  ],
+  "tag": "Global tactical",
+  "blurb": "Classic Kalashnikov toughness with NATO-friendly features, a side-folding tubular stock and an A2-style flash hider.",
+  "features": [
+   "5.56x45mm NATO",
+   "Side-folding tubular metal stock",
+   "A2-style flash hider",
+   "6-groove chrome-lined barrel",
+   "600 RPM, 500 m range"
+  ]
+ },
+ {
+  "slug": "haider-556",
+  "name": "Haider 556",
+  "cat": "Rifle",
+  "platform": "AKM",
+  "caliber": "5.56x45mm",
+  "action": "Semi-auto, long-stroke piston",
+  "barrel": "Chrome-lined",
+  "mag": "30 rounds",
+  "weight": "",
+  "length": "",
+  "stock": "Laminated wood set",
+  "finish": "Blued steel",
+  "use": [
+   "Sport",
+   "Private defence",
+   "Collectors"
+  ],
+  "tag": "Hammer-forged",
+  "blurb": "5.56mm build on the AKM platform: fully machined hammer-forged bolt carrier, forged barrel trunnion and a laminated stock set.",
+  "features": [
+   "Hammer-forged bolt carrier",
+   "Forged barrel trunnion",
+   "Laminated stock set",
+   "Chrome-lined barrel",
+   "Blued steel finish"
+  ]
+ }
+]
