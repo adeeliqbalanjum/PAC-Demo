@@ -110,7 +110,8 @@ section{position:relative}
 .range:hover .range__img{transform:scale(1.08) translateX(8px)}
 .range__text{position:absolute;left:24px;right:24px;top:400px;display:grid;gap:10px}
 .range__text p{color:var(--dtext);font-size:14px;max-width:320px}
-.range__cta{position:absolute;right:24px;bottom:24px}
+.range__cta{position:absolute;right:24px;top:18px}
+.range__text .chip{max-width:100%;white-space:normal;line-height:1.4}
 
 /* spotlights */
 .spot{position:relative;min-height:520px;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:40px;padding:72px var(--pad);overflow:hidden}
